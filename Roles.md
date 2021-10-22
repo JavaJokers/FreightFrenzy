@@ -11,3 +11,9 @@ Charlie: Designer
 Ari: Scribe/Designer/Backup Driver 2
 
 Phoebe: Outreach Manager
+
+Chris: Mentor
+
+Cole: Mentor
+
+Trentin: Mentor
