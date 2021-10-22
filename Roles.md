@@ -1,6 +1,6 @@
 Andy: Mechanical Work/Organization/Driver 2
 
-Sam: Head Programmer/Presenter/Driver 1
+Sam: Head Programmer/Presenter/Driver 1/Co-Captain
 
 Logan: Team Captain/Presenter/Backup Driver 1
 
