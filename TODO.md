@@ -15,3 +15,5 @@ whine about chromebooks some more
 finish documenting our work
 
 Add machine-learning camera (henry help here too)
+
+Design custom shipping element and print it X3
