@@ -17,3 +17,5 @@ finish documenting our work
 Add machine-learning camera (henry help here too)
 
 Design custom shipping element and print it X3
+
+As robot drives in direction, turn to facce that direction?
