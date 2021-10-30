@@ -1,0 +1,11 @@
+compileOptions {
+    sourceCompatibility JavaVersion.VERSION_1_8
+    targetCompatibility JavaVersion.VERSION_1_8
+}
+
+defaultConfig {
+    applicationId 'com.qualcomm.ftcrobotcontroller'
+    minSdkVersion 24
+    targetSdkVersion 28
+    multiDexEnabled true
+}
