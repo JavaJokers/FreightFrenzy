@@ -1,0 +1,10 @@
+repositories {
+    mavenCentral()
+}
+
+defaultConfig {
+    applicationId 'com.qualcomm.ftcrobotcontroller'
+    minSdkVersion 24
+    targetSdkVersion 28
+    multiDexEnabled true
+}
