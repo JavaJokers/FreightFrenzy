@@ -1,8 +1,8 @@
 Andy: Lead Mechanic/Organization/Driver 2
 
-Sam: Lead Programmer/Presenter/Driver 1/Co-Captain/Mechanic
+Sam: Lead Programmer/Presenter/Driver 1/Captain/Mechanic
 
-Logan: Team Captain/Presenter/Backup Driver 1
+Logan: Co-Captain/Presenter/Backup Driver 1
 
 Toby: Mechanic/Programmer/Backup Driver 2
 
