@@ -1,4 +1,4 @@
-Add stilts to robot
+Add stilts to robot X
 
 finish arm
 
@@ -10,8 +10,6 @@ decide on autonomous
 
 code automonous
 
-whine about chromebooks some more
-
 finish documenting our work
 
 Add machine-learning camera (henry help here too)
@@ -19,3 +17,5 @@ Add machine-learning camera (henry help here too)
 Design custom shipping element and print it X3
 
 As robot drives in direction, turn to facce that direction?
+
+Create Team Gmail
