@@ -4,11 +4,11 @@ Sam: Lead Programmer/Presenter/Driver 1/Captain/Mechanic
 
 Logan: Co-Captain/Presenter/Backup Driver 1
 
-Toby: Mechanic/Programmer/Backup Driver 2
+Toby: Mechanic/Programmer/Backup Driver 3
 
 Andrew: Dead Weight
 
-Charlie: Designer/Mechanic/Backup Driver 3
+Charlie: Designer/Mechanic/Backup Driver 2
 
 Ari: Scribe/Designer/Backup Driver 4
 
