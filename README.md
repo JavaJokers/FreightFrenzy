@@ -1,5 +1,5 @@
 # FreightFrenzy  
-## Java jokers is a Milwaukee based 2021-2022 First Tech Team (FTC). Team number(13828)
+## Java jokers is a Milwaukee based 2021-2022 First Tech Team (FTC). #13828
 <table>
   <tr>
     <td>
