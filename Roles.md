@@ -7,7 +7,7 @@ Chris: Mentor
 Cole: Mentor
 
 Trentin: Mentor
-<h1> Members <h1>
+<h1> Members </h1>
 Andy: Lead Mechanic/Organization/Driver 2
 
 Sam: Lead Programmer/Presenter/Driver 1/Captain/Mechanic
