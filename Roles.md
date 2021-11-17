@@ -17,13 +17,13 @@ Sam: Lead Programmer/Presenter/Driver 1/Captain/Mechanic
 
 Logan: Co-Captain/Presenter/Backup Driver 1/Github mananger 
 
+Ari: Scribe/Designer/Backup Driver 4
+
 Toby: Mechanic/Programmer/Backup Driver 3
 
 Andrew: Mechanic 
 
 Charlie: Designer/Mechanic/Backup Driver 2
-
-Ari: Scribe/Designer/Backup Driver 4
 
 Phoebe: Outreach Manager/Portfolio Manager
 
