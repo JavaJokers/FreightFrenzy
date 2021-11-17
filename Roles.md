@@ -1,3 +1,13 @@
+<h1> Coaches </h1>
+
+Mrs gleason: Coach 
+
+Chris: Mentor
+
+Cole: Mentor
+
+Trentin: Mentor
+<h1> Members <h1>
 Andy: Lead Mechanic/Organization/Driver 2
 
 Sam: Lead Programmer/Presenter/Driver 1/Captain/Mechanic
@@ -16,15 +26,7 @@ Phoebe: Outreach Manager/Portfolio Manager
 
 Azael: Outreach comanaanger/Designer
 
-Chris: Mentor
-
-Cole: Mentor
-
-Trentin: Mentor
-
 Jordan: CAD
-
-Mrs gleason: Coach 
 
 Henry: Programmer
 
